@@ -1,0 +1,199 @@
+<ENVELOPE>
+ <HEADER>
+  <VERSION>1</VERSION>
+  <STATUS>1</STATUS>
+ </HEADER>
+ <BODY>
+  <DESC>
+   <CMPINFO>
+    <COMPANY>0</COMPANY>
+    <GROUP>0</GROUP>
+    <LEDGER>170</LEDGER>
+    <COSTCATEGORY>0</COSTCATEGORY>
+    <COSTCENTRE>0</COSTCENTRE>
+    <GODOWN>0</GODOWN>
+    <STOCKGROUP>0</STOCKGROUP>
+    <STOCKCATEGORY>0</STOCKCATEGORY>
+    <STOCKITEM>0</STOCKITEM>
+    <VOUCHERTYPE>0</VOUCHERTYPE>
+    <CURRENCY>15</CURRENCY>
+    <UNIT>0</UNIT>
+    <BUDGET>0</BUDGET>
+    <CLIENTRULE>0</CLIENTRULE>
+    <SERVERRULE>0</SERVERRULE>
+    <STATE>0</STATE>
+    <TDSRATE>0</TDSRATE>
+    <TAXCLASSIFICATION>0</TAXCLASSIFICATION>
+    <STCATEGORY>0</STCATEGORY>
+    <DEDUCTEETYPE>0</DEDUCTEETYPE>
+    <ATTENDANCETYPE>0</ATTENDANCETYPE>
+    <FBTCATEGORY>0</FBTCATEGORY>
+    <FBTASSESSEETYPE>0</FBTASSESSEETYPE>
+    <TARIFFCLASSIFICATION>0</TARIFFCLASSIFICATION>
+    <EXCISEDUTYCLASSIFICATION>0</EXCISEDUTYCLASSIFICATION>
+    <SERIALNUMBER>0</SERIALNUMBER>
+    <ADJUSTMENTCLASSIFICATION>0</ADJUSTMENTCLASSIFICATION>
+    <INCOMETAXSLAB>0</INCOMETAXSLAB>
+    <INCOMETAXCLASSIFICATION>0</INCOMETAXCLASSIFICATION>
+    <LBTCLASSIFICATION>0</LBTCLASSIFICATION>
+    <TAXUNIT>77</TAXUNIT>
+    <RETURNMASTER>0</RETURNMASTER>
+    <GSTCLASSIFICATION>0</GSTCLASSIFICATION>
+    <VOUCHERNUMBERSERIES>77</VOUCHERNUMBERSERIES>
+    <VOUCHER>15</VOUCHER>
+   </CMPINFO>
+  </DESC>
+  <DATA>
+   <COLLECTION ISMSTDEPTYPE="Yes" MSTDEPTYPE="8">
+    <LEDGER NAME="aparna" RESERVEDNAME="">
+     <PARENT TYPE="String">Bank Accounts</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>aparna</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number"> 1033</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="Bank" RESERVEDNAME="">
+     <PARENT TYPE="String">Capital Account</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>Bank</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number"> 1033</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="Bk" RESERVEDNAME="">
+     <PARENT TYPE="String">Bank Accounts</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>Bk</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number"> 1033</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="Cash" RESERVEDNAME="">
+     <PARENT TYPE="String">Cash-in-Hand</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>Cash</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number"> 1033</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="HDFC Bank" RESERVEDNAME="">
+     <PARENT TYPE="String">Bank Accounts</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>HDFC Bank</NAME>
+      </NAME.LIST>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="ICICI Bank" RESERVEDNAME="">
+     <PARENT TYPE="String">Bank Accounts</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>ICICI Bank</NAME>
+      </NAME.LIST>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="Miscellaneous Expenses" RESERVEDNAME="">
+     <PARENT TYPE="String">Indirect Expenses</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>Miscellaneous Expenses</NAME>
+      </NAME.LIST>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="Pradeep  mithai" RESERVEDNAME="">
+     <PARENT TYPE="String">Sundry Creditors</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>Pradeep  mithai</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number">0</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="Profit &amp; Loss A/c" RESERVEDNAME="Profit &amp; Loss A/c">
+     <PARENT TYPE="String"> Primary</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>Profit &amp; Loss A/c</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number"> 1033</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="sid" RESERVEDNAME="">
+     <PARENT TYPE="String">Bank Accounts</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>sid</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number"> 1033</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="Success" RESERVEDNAME="">
+     <PARENT TYPE="String">Bank Accounts</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>Success</NAME>
+      </NAME.LIST>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="TempDeleteTestLedger" RESERVEDNAME="">
+     <PARENT TYPE="String">Sundry Debtors</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>TempDeleteTestLedger</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number"> 1033</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="TempUpdatedTestLedger_1745946312032" RESERVEDNAME="">
+     <PARENT TYPE="String">Sundry Creditors</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>TempUpdatedTestLedger_1745946312032</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number"> 1033</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="TestLedger" RESERVEDNAME="">
+     <PARENT TYPE="String">Sundry Debtors</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>TestLedger</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number"> 1033</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="THIS IS CRAZY LEDGER" RESERVEDNAME="">
+     <PARENT TYPE="String">Bank Accounts</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>THIS IS CRAZY LEDGER</NAME>
+      </NAME.LIST>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="THIS WILL WORK" RESERVEDNAME="">
+     <PARENT TYPE="String">Cash-in-Hand</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>THIS WILL WORK</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number"> 1033</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+    <LEDGER NAME="UpdatedTestLedger" RESERVEDNAME="">
+     <PARENT TYPE="String">Sundry Creditors</PARENT>
+     <LANGUAGENAME.LIST>
+      <NAME.LIST TYPE="String">
+       <NAME>UpdatedTestLedger</NAME>
+      </NAME.LIST>
+      <LANGUAGEID TYPE="Number"> 1033</LANGUAGEID>
+     </LANGUAGENAME.LIST>
+    </LEDGER>
+   </COLLECTION>
+  </DATA>
+ </BODY>
+</ENVELOPE>
